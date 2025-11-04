@@ -1,3 +1,5 @@
+package models;
+
 public enum QualiteAudio {
     STANDARD(0.02, "256kb/s"),
     HD(0.03, "512kb/s");
