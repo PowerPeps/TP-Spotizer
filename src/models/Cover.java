@@ -1,3 +1,5 @@
+package models;
+
 import enums.StyleMusique;
 
 public class Cover extends TitreMusicale {
