@@ -1,3 +1,5 @@
+package enums;
+
 enum StyleMusique {
     ROCK, POP, JAZZ, CLASSIQUE, RAP, ELECTRONIC, METAL, FOLK, REGGAE, BLUES
 }
