@@ -1,3 +1,5 @@
+package models;
+
 public class Album {
     private String nom;
     private Artiste artiste;
