@@ -1,3 +1,5 @@
+package models;
+
 public class Artiste {
     private String nom;
     private String pays;
