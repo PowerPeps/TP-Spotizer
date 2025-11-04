@@ -1,3 +1,5 @@
+package models;
+
 import enums.StyleMusique;
 import enums.QualiteAudio;
 
